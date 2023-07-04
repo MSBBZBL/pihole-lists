@@ -23,3 +23,4 @@ edge.microsoft.com
 omex.cdn.office.net
 officeclient.microsoft.com
 msedge.api.cdp.microsoft.com
+ctldl.windowsupdate.com
